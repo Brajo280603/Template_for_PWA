@@ -1,0 +1,10 @@
+button{
+  border-color: grey;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  box-shadow: none;
+  background-color: aliceblue;
+  font-weight: 600;
+  font-size: 0.8rem;
+  color: grey;
+}
