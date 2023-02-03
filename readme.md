@@ -11,7 +11,6 @@ Make a PWA with the given template change according to your need
  - [All about PWA (Web.Dev)](https://web.dev/progressive-web-apps/)
  - [Create Maskable Icons](https://maskable.app/editor)
  - [Find icons (Flaticons)](https://www.flaticon.com/)
- - [Find icons (Icons8)](https://icons8.com/)
  
  
 
